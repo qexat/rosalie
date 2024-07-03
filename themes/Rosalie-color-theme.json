@@ -12,7 +12,6 @@
     "variable.defaultLibrary": {
       "foreground": "#b7892e"
     },
-    "module": "#ff0000",
     "magicFunction": "#9933CC"
   },
   "tokenColors": [
