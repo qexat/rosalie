@@ -1954,6 +1954,7 @@
     "inputOption.activeForeground": "#613846",
     "input.placeholderForeground": "#6138467f",
     "textLink.foreground": "#d65c85",
+    "textLink.activeForeground": "#8A3652",
     "editor.background": "#fdf5f7",
     "editor.foreground": "#302629",
     "editorLineNumber.foreground": "#DCD4D7",
@@ -2150,6 +2151,13 @@
     "editorSuggestWidget.selectedForeground": "#613846",
     "editorBracketHighlight.foreground1": "#B7C75D",
     "editorBracketHighlight.foreground2": "#D55CC2",
-    "editorBracketHighlight.foreground3": "#5CC2D5"
+    "editorBracketHighlight.foreground3": "#5CC2D5",
+    "settings.textInputBackground": "#e9e1e3",
+    "settings.checkboxBackground": "#e9e1e3",
+    "settings.dropdownBackground": "#e9e1e3",
+    "settings.numberInputBackground": "#e9e1e3",
+    "settings.numberInputForeground": "#9933cc",
+    "settings.rowHoverBackground": "#D65C8528",
+    "textCodeBlock.background": "#e9e1e3"
   }
 }
